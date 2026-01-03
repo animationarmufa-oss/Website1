@@ -2,8 +2,8 @@
 // ⚠️ Jangan taruh API KEY di sini. Secrets harus di Vercel Environment Variables.
 
 export const BRAND = {
-  name: "Web Yopandelreyz",
-  tagline: "Powerful hosting • Panel Pterodactyl • VPS Singapore",
+  name: "ARMUFA STORE",
+  tagline: "Powerful hosting • Panel Pterodactyl ",
 };
 
 // Mata uang (display only)
@@ -38,7 +38,8 @@ export const PRODUCTS = [
       { key: "panel-12gb", label: "12GB", ramGb: 12, cores: null, price: 12000, badge: "Popular" },
       { key: "panel-13gb", label: "13GB", ramGb: 13, cores: null, price: 13000, badge: "Terlangka" },
       { key: "panel-14gb", label: "14GB", ramGb: 14, cores: null, price: 14000, badge: "Terlaris" },
-      { key: "panel-unlimited", label: "UNLIMITED", ramGb: 0, cores: null, price: 15000, badge: "Request" },
+      { key: "panel-15gb", label: "15GB", ramGb: 15, cores: null, price: 15000, badge: "Terlaris" },
+      { key: "panel-unlimited", label: "UNLIMITED", ramGb: 0, cores: null, price: 16000, badge: "Request" },
     ],
     notes: [
       "Unlimited (ram=0) = request-based (bukan RAM tak terbatas secara fisik).",
